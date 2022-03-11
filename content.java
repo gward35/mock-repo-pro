@@ -1,5 +1,5 @@
-public class Cuehdm {
+public class Cdwint {
     public static void main() {
-        System.out.println("miycy");
+        System.out.println("siwml");
     }
 }
