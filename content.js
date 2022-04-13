@@ -1,4 +1,6 @@
 console.log("uiwcw")
 console.log("kpiem")
 console.log("rdjpk")
-console.log("xhjdh")
+console.log("lvldj")
+console.log("tybsc")
+console.log("ttiio")
