@@ -1,5 +1,5 @@
-public class Cdwint {
+public class Cgyslx {
     public static void main() {
-        System.out.println("siwml");
+        System.out.println("waygo");
     }
 }
