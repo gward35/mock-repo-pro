@@ -7,6 +7,6 @@ public class Cipuvj {
         System.out.println("rkxkg");
         System.out.println("djees");
         System.out.println("tduor");
-        System.out.println("eaukj");
+        System.out.println("ockki");
     }
 }
