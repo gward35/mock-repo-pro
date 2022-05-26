@@ -1,5 +1,5 @@
-public class Coqsuc {
+public class Cxjcpj {
     public static void main() {
-        System.out.println("egwil");
+        System.out.println("qbmbi");
     }
 }
