@@ -1,5 +1,5 @@
-public class Cxjcpj {
+public class Cjhhve {
     public static void main() {
-        System.out.println("qbmbi");
+        System.out.println("joine");
     }
 }
