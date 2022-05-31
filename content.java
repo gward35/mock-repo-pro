@@ -6,6 +6,5 @@ public class Cipuvj {
         System.out.println("dvscw");
         System.out.println("rkxkg");
         System.out.println("djees");
-        System.out.println("bsabh");
     }
 }
