@@ -2,6 +2,6 @@ public class Cipuvj {
     public static void main() {
         System.out.println("iimtr");
         System.out.println("yogci");
-        System.out.println("xtjeq");
+        System.out.println("tjivf");
     }
 }
