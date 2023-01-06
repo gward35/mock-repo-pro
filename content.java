@@ -11,5 +11,6 @@ public class Cipuvj {
         System.out.println("gauiy");
         System.out.println("ekuvp");
         System.out.println("ahmae");
+        System.out.println("typki");
     }
 }
